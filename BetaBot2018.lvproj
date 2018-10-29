@@ -118,6 +118,10 @@ AddOutputFilter chunkFilter
 				<Item Name="Brosse.vi" Type="VI" URL="../Brosse.vi"/>
 				<Item Name="Pain-ce.vi" Type="VI" URL="../Pain-ce.vi"/>
 			</Item>
+			<Item Name="Util" Type="Folder">
+				<Item Name="ButtonPress.vi" Type="VI" URL="../../DriveBase2018/ButtonPress.vi"/>
+				<Item Name="Lever.vi" Type="VI" URL="../../DriveBase2018/Lever.vi"/>
+			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
