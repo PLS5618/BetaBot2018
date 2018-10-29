@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Commandes" Type="Folder">
 				<Item Name="Brosse.vi" Type="VI" URL="../Brosse.vi"/>
+				<Item Name="Pain-ce.vi" Type="VI" URL="../Pain-ce.vi"/>
 			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
