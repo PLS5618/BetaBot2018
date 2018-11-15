@@ -122,6 +122,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Util" Type="Folder">
 				<Item Name="ButtonPress.vi" Type="VI" URL="../ButtonPress.vi"/>
 				<Item Name="Lever.vi" Type="VI" URL="../Lever.vi"/>
+				<Item Name="Switch.vi" Type="VI" URL="../Switch.vi"/>
 			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
