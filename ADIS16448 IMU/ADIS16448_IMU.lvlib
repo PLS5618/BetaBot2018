@@ -30,7 +30,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="ADI_IMU_ADIS16448_Close.vi" Type="VI" URL="../ADI_IMU_ADIS16448_Close.vi"/>
 		<Item Name="ADI_IMU_ADIS16448_Get AHRS.vi" Type="VI" URL="../ADI_IMU_ADIS16448_Get AHRS.vi"/>
-		<Item Name="ADI_IMU_ADIS16448_Get Angles.vi" Type="VI" URL="../ADI_IMU_ADIS16448_Get Angles.vi"/>
+		<Item Name="ADI_IMU_ADIS16448_Get Angles.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/ADIS16448 IMU/ADI_IMU_ADIS16448_Get Angles.vi"/>
 		<Item Name="ADI_IMU_ADIS16448_Get Instant.vi" Type="VI" URL="../ADI_IMU_ADIS16448_Get Instant.vi"/>
 		<Item Name="ADI_IMU_ADIS16448_IMUDevRef.ctl" Type="VI" URL="../ADI_IMU_ADIS16448_IMUDevRef.ctl"/>
 		<Item Name="ADI_IMU_ADIS16448_Loop.vi" Type="VI" URL="../ADI_IMU_ADIS16448_Loop.vi"/>
